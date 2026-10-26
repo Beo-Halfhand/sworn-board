@@ -1,0 +1,15 @@
+{
+  "contract": "07169beabac9fa5876fda16e9c423c26ce2b97186b7dcf83d3a34d501e83b09d",
+  "result": "failed",
+  "evidence": [
+    {
+      "at": null,
+      "field": "thread.sworn-proof",
+      "value": null,
+      "expected": "9d79e441"
+    }
+  ],
+  "payment": null,
+  "watcher": "sworn-watcher v0.2",
+  "note": "offer not delivered"
+}
