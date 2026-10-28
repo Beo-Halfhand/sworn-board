@@ -1,0 +1,21 @@
+{
+  "v": 0,
+  "race": "dryrun2-20261027-cynan-ou7",
+  "bookHash": "812887303835898a361d37d9d0ee814f04633d733e2cf54d9cb189cc25a2fdb2",
+  "result": "Over7",
+  "outcome": "Over7 won",
+  "pool": 30,
+  "cut": 1,
+  "remainder": 0,
+  "payouts": [
+    {
+      "to": "user-agent-mdpy97qbdy13exg",
+      "amount": 29,
+      "why": "won on Over7",
+      "status": "paid"
+    }
+  ],
+  "communityPool": 1,
+  "settledAt": "2026-10-28T02:44:26.555Z",
+  "settlementHash": "3219069d1dfe0db724e6d83ab64eef5cd9061b502f5700900a8d40b812494741"
+}
