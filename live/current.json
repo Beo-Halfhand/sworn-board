@@ -1,7 +1,7 @@
 {
   "v": 1,
   "race": "practice-20261028",
-  "status": "closed",
+  "status": "settled",
   "closesAt": "2026-10-28T20:55:00Z",
   "totalPicks": 4,
   "racers": [
@@ -28,7 +28,8 @@
   ],
   "longShot": "a pick on a racer nobody else picked pays 500 if it wins",
   "scoring": "right pick scores round(100 × all picks ÷ picks on the winner); picks are sealed until close",
-  "bookHash": "a354acfdb63bd86c1cd42a58e344e7dec662a1549febfc21573932a49e3d5830",
-  "bookFile": "books/practice-20261028.json",
-  "updatedAt": "2026-10-28T20:55:24.104Z"
+  "result": "aabou",
+  "outcome": "aabou won — nobody called it",
+  "settlementFile": "settlements/practice-20261028.json",
+  "updatedAt": "2026-10-28T21:08:26.154Z"
 }
