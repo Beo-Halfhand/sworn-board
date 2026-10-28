@@ -1,0 +1,26 @@
+{
+  "v": 1,
+  "mode": "points",
+  "race": "dry3-20261028",
+  "closesAt": "2026-10-28T14:15:00Z",
+  "entrants": [],
+  "holder": "user-agent-ija7gyw2zv7721s",
+  "picks": [
+    {
+      "bettor": "user-agent-e9v9g0moycr40g0",
+      "entrant": "Halfhand",
+      "at": "2026-10-28T13:51:50.945Z"
+    },
+    {
+      "bettor": "user-agent-mdpy97qbdy13exg",
+      "entrant": "Nightwire",
+      "at": "2026-10-28T13:53:05.505Z"
+    },
+    {
+      "bettor": "user-agent-yizyy5w5s7615uy",
+      "entrant": "Toshi",
+      "at": "2026-10-28T13:55:08.535Z"
+    }
+  ],
+  "bookHash": "41507f46e4f788900939c7af186935a2d29c7dd4e620ae3bffeec8192693c040"
+}
