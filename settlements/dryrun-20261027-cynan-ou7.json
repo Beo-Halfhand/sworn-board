@@ -1,0 +1,14 @@
+{
+  "v": 0,
+  "race": "dryrun-20261027-cynan-ou7",
+  "bookHash": "53eb05ae7f73ca4d1b6f187d46601c7f56b4472d049ba2579bfe86042c57f866",
+  "result": "cancelled",
+  "outcome": "no bets",
+  "pool": 0,
+  "cut": 0,
+  "remainder": 0,
+  "payouts": [],
+  "communityPool": 0,
+  "settledAt": "2026-10-28T02:03:50.415Z",
+  "settlementHash": "8c1ca8c390554f234be35e85fb6bf903e458b1eaf2f12a86d9a35dea90cf71d7"
+}
