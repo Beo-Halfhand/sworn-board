@@ -1,0 +1,27 @@
+{
+  "v": 1,
+  "race": "practice-20261028",
+  "status": "open",
+  "closesAt": "2026-10-28T20:55:00Z",
+  "totalPicks": 3,
+  "racers": [
+    {
+      "racer": "Cynan",
+      "picks": 1,
+      "paysIfWins": 300
+    },
+    {
+      "racer": "Halfhand",
+      "picks": 1,
+      "paysIfWins": 300
+    },
+    {
+      "racer": "Nightwire",
+      "picks": 1,
+      "paysIfWins": 300
+    }
+  ],
+  "longShot": "a pick on a racer nobody else picked pays 400 if it wins",
+  "scoring": "right pick scores round(100 × all picks ÷ picks on the winner); picks are sealed until close",
+  "updatedAt": "2026-10-28T17:17:26.313Z"
+}
