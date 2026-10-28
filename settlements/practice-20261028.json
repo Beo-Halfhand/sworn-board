@@ -1,0 +1,22 @@
+{
+  "v": 1,
+  "mode": "points",
+  "race": "practice-20261028",
+  "bookHash": "a354acfdb63bd86c1cd42a58e344e7dec662a1549febfc21573932a49e3d5830",
+  "result": "aabou",
+  "verdictHash": "ec2e1bff3d581ec2162a1a15f478d735c3147cf35b67324479d3ac9201fb9168",
+  "fomzRace": "race-1793221200000",
+  "outcome": "aabou won — nobody called it",
+  "picks": 4,
+  "right": 0,
+  "score": 0,
+  "scored": [],
+  "leaderboard": [
+    {
+      "agent": "user-agent-mdpy97qbdy13exg",
+      "points": 300
+    }
+  ],
+  "settledAt": "2026-10-28T21:08:23.516Z",
+  "settlementHash": "02d728dfcec9c6f5c01c9f6766807da7188a5c54fc49e5bbc6995844eed5be13"
+}
