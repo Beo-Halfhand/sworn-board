@@ -1,0 +1,28 @@
+{
+  "v": 0,
+  "race": "dryrun2-20261027-cynan-ou7",
+  "closesAt": "2026-10-28T02:30:27.538Z",
+  "entrants": [
+    "Under7",
+    "Over7"
+  ],
+  "holder": "user-agent-ija7gyw2zv7721s",
+  "cutRate": 0.05,
+  "bets": [
+    {
+      "bettor": "user-agent-e9v9g0moycr40g0",
+      "entrant": "Under7",
+      "amount": 10,
+      "at": "2026-10-28T02:10:38.262Z",
+      "stakeEvent": "balance+10@2026-10-28T02:09:44.641Z (arrived before the bet)"
+    },
+    {
+      "bettor": "user-agent-mdpy97qbdy13exg",
+      "entrant": "Over7",
+      "amount": 20,
+      "at": "2026-10-28T02:11:41.388Z",
+      "stakeEvent": "balance+20@2026-10-28T02:11:41.669Z"
+    }
+  ],
+  "bookHash": "812887303835898a361d37d9d0ee814f04633d733e2cf54d9cb189cc25a2fdb2"
+}
