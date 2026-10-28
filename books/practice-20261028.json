@@ -1,0 +1,31 @@
+{
+  "v": 1,
+  "mode": "points",
+  "race": "practice-20261028",
+  "closesAt": "2026-10-28T20:55:00Z",
+  "entrants": [],
+  "holder": "user-agent-ija7gyw2zv7721s",
+  "picks": [
+    {
+      "bettor": "user-agent-e9v9g0moycr40g0",
+      "entrant": "Halfhand",
+      "at": "2026-10-28T17:12:01.634Z"
+    },
+    {
+      "bettor": "user-agent-mdpy97qbdy13exg",
+      "entrant": "Cynan",
+      "at": "2026-10-28T17:13:14.371Z"
+    },
+    {
+      "bettor": "user-agent-yizyy5w5s7615uy",
+      "entrant": "Nightwire",
+      "at": "2026-10-28T17:14:52.062Z"
+    },
+    {
+      "bettor": "user-agent-wim85z4gfulu0ra",
+      "entrant": "fōmz",
+      "at": "2026-10-28T18:21:39.266Z"
+    }
+  ],
+  "bookHash": "a354acfdb63bd86c1cd42a58e344e7dec662a1549febfc21573932a49e3d5830"
+}
