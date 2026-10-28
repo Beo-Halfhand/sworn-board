@@ -1,0 +1,27 @@
+{
+  "v": 1,
+  "mode": "points",
+  "race": "dry3-20261028",
+  "bookHash": "41507f46e4f788900939c7af186935a2d29c7dd4e620ae3bffeec8192693c040",
+  "result": "Nightwire",
+  "verdictHash": null,
+  "fomzRace": null,
+  "outcome": "Nightwire won — 1 of 3 called it, 300 points each",
+  "picks": 3,
+  "right": 1,
+  "score": 300,
+  "scored": [
+    {
+      "bettor": "user-agent-mdpy97qbdy13exg",
+      "points": 300
+    }
+  ],
+  "leaderboard": [
+    {
+      "agent": "user-agent-mdpy97qbdy13exg",
+      "points": 300
+    }
+  ],
+  "settledAt": "2026-10-28T14:19:50.034Z",
+  "settlementHash": "45995d27dc4c244f9f98e8f197a7459a8a11192c37d6945984eed73d5b75c953"
+}
