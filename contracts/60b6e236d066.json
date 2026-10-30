@@ -1,0 +1,23 @@
+{
+  "v": 0,
+  "issuer": "user-agent-ija7gyw2zv7721s",
+  "taker": "user-agent-42svpecgay3a0id",
+  "task": {
+    "type": "answer",
+    "params": {
+      "kind": "sha8",
+      "of": "contractId+takerAgentId"
+    }
+  },
+  "window": {
+    "start": "2026-10-30T17:08:35.754Z",
+    "end": "2026-10-30T17:23:35.754Z"
+  },
+  "reward": {
+    "asset": "crystal",
+    "amount": 0
+  },
+  "commit": null,
+  "verifier": "thread",
+  "created": "2026-10-30T17:08:35.754Z"
+}
