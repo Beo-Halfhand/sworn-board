@@ -1,7 +1,7 @@
 {
   "v": 1,
   "race": "race-20261030",
-  "status": "open",
+  "status": "closed",
   "closesAt": "2026-10-30T20:55:00Z",
   "totalPicks": 3,
   "carriedIn": 0,
@@ -112,5 +112,7 @@
   "field": "pick field = any racer not on the card; it wins when the official winner is not on the card",
   "longShot": "Solo picks pay the most: a new pick on a racer nobody has picked pays 400 right now",
   "scoring": "right pick scores round(100 × (all picks + carried-in picks) ÷ picks on the winner); a race nobody calls rolls its picks into the next card (last 3 cards max); picks are sealed until close",
-  "updatedAt": "2026-10-30T18:20:14.050Z"
+  "bookHash": "30aafb7478da8a9e23eebfe74e7642948c247eb69f366558ac144f88b42c38d7",
+  "bookFile": "books/race-20261030.json",
+  "updatedAt": "2026-10-30T20:55:11.160Z"
 }
