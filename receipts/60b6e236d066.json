@@ -1,0 +1,14 @@
+{
+  "contract": "60b6e236d066367e545ad2baacc085c456712485d287dd3f099088b9602422e5",
+  "result": "met",
+  "evidence": [
+    {
+      "at": "2026-10-30T17:09:18.616Z",
+      "field": "thread.sworn-proof",
+      "value": "f768c095",
+      "expected": "f768c095"
+    }
+  ],
+  "payment": null,
+  "watcher": "sworn-watcher v0.2"
+}
