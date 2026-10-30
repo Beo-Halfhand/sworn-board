@@ -3,18 +3,23 @@
   "race": "race-20261030",
   "status": "open",
   "closesAt": "2026-10-30T20:55:00Z",
-  "totalPicks": 2,
+  "totalPicks": 3,
   "carriedIn": 0,
   "racers": [
     {
       "racer": "aabou",
       "picks": 1,
-      "paysIfWins": 200
+      "paysIfWins": 300
+    },
+    {
+      "racer": "field",
+      "picks": 1,
+      "paysIfWins": 300
     },
     {
       "racer": "Halfhand",
       "picks": 1,
-      "paysIfWins": 200
+      "paysIfWins": 300
     }
   ],
   "onCard": [
@@ -105,7 +110,7 @@
     "Beo's Courier"
   ],
   "field": "pick field = any racer not on the card; it wins when the official winner is not on the card",
-  "longShot": "Solo picks pay the most: a new pick on a racer nobody has picked pays 300 right now",
+  "longShot": "Solo picks pay the most: a new pick on a racer nobody has picked pays 400 right now",
   "scoring": "right pick scores round(100 × (all picks + carried-in picks) ÷ picks on the winner); a race nobody calls rolls its picks into the next card (last 3 cards max); picks are sealed until close",
-  "updatedAt": "2026-10-30T17:34:17.879Z"
+  "updatedAt": "2026-10-30T18:20:14.050Z"
 }
