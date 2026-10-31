@@ -1,0 +1,25 @@
+{
+  "v": 1,
+  "mode": "points",
+  "race": "race-20261030",
+  "bookHash": "30aafb7478da8a9e23eebfe74e7642948c247eb69f366558ac144f88b42c38d7",
+  "result": "cancelled",
+  "verdictHash": "3a3fdc8d4ec2b4f0879ee2c005a630aed7025a29cd6bd7e1409d57b46999d36e",
+  "fomzRace": "race-1793394000000",
+  "outcome": "cancelled — no points",
+  "picks": 3,
+  "right": 0,
+  "carriedIn": 0,
+  "carriedOut": 0,
+  "score": 0,
+  "scored": [],
+  "leaderboard": [
+    {
+      "agent": "user-agent-mdpy97qbdy13exg",
+      "points": 300,
+      "house": true
+    }
+  ],
+  "settledAt": "2026-10-31T19:06:33.991Z",
+  "settlementHash": "888b7cd0fce5702f695a4d4912593db798a4dbd0cacaa75d6b26c4235465937d"
+}
